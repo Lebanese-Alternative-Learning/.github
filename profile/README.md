@@ -63,4 +63,4 @@ Our constraints come from the students we serve, so they are not negotiable:
 
 We welcome issues and pull requests on any repo here. If you are an NGO, a school or a
 ministry that wants to reuse our work, or a developer who wants to contribute, get in
-touch through [lal.ngo](https://lal.ngo).
+touch through [Tech@lal.ngo](mailto:tech@lal.ngo).
